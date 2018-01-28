@@ -11,7 +11,6 @@ Sugestões de Funcionalidades
 * 
 
 
-
 Bug-Fixes e Novas funcionalidades para próximo release
 ------------------------------------------------------
 
